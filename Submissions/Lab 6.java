@@ -1,4 +1,4 @@
-public class Main {
+public class Lab 6 {
 
     public static void main(String[] args) {
 	    Node one = new Node(1);
