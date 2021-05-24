@@ -1,4 +1,7 @@
 {
     "python.pythonPath": "/usr/local/bin/python3",
-    "java.project.sourcePaths": ["src"]
+    "java.project.sourcePaths": [
+        "Semester Project/Semester_Project/Main/src/main",
+        "Semester Project"
+    ]
 }
