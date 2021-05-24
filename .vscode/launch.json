@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Launch Main",
             "request": "launch",
+            "mainClass": "Main.src.main.Main",
+            "projectName": "CMPT-220L-903-21S_24c376dc"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
             "mainClass": "Main",
             "projectName": "CMPT-220L-903-21S_24c376dc"
         },
